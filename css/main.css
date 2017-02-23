@@ -1,0 +1,21 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.carousel {
+  margin-bottom: 10px;
+}
+
+.chaussettes {
+  width: 100%;
+}
+
+.panier-img {
+  width: 25%;
+  float: left;
+}
+
+.btn-nav {
+  margin-top: 8px;
+}
